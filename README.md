@@ -29,3 +29,8 @@ Modules
 * Distributed Computing on the Cloud: GraphLab
 * Distributed Computing on the Cloud: Spark
 * Message Queues and Stream Processing
+
+Notes:
+* There are no Check for Knowledge questions in the "Storage and Network Virtualization" module.  
+
+* These modules are given out of order.  Foundations of Cloud Computing for Developers and maybe the next 4 or more modules should be listed at the beginning.
