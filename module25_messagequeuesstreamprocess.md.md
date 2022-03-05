@@ -26,17 +26,22 @@ _Correct! These systems are inherently horizontally scalable as long as the data
 ## Check your knowledge ##
 1. Which of the following provides parallelism in Samza?
 
-
-# Big data processing architectures #
-## Check your knowledge ##
-1. Which of the following provides parallelism in Samza?
-
 __Partitioning, by dividing the input data into more pieces, allowing parallel processing by multiple tasks__
 _Correct! More partitions enable more parallelism._
 
 
-# Real-time architectures in practice #
+
+# Big data processing architectures #
 ## Check your knowledge ##
 1. What is the main difference between the Lambda and Kappa architectures?
 
 __Lambda architectures include a layer for batch processing, while Kappa architectures do not.__
+
+
+
+# Real-time architectures in practice #
+## Check your knowledge ##
+1. Which of the following is true about LinkedIn's original architecture?
+
+__It uses all-to-all communication between production services and back-end databases.__
+_Correct! The system had individual links between each communicating component._
